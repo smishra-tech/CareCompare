@@ -1,0 +1,1 @@
+console.log("CareCompare Server Initializing...");
